@@ -20,4 +20,4 @@ Meta-Surgicals is a full-stack e-commerce platform for medical and surgical prod
 ## 🗄️ Tech Stack  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Frontend:** HTML, CSS, JavaScript 
+- **Frontend:** HTML, CSS, Javascript
